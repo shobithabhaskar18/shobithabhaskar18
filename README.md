@@ -9,7 +9,7 @@
 
 ---
 
-### 🧑‍💼 **Professional Summary**
+### 👩🏻‍💻 **Professional Summary**
 
 I'm a data-driven professional passionate about transforming raw data into business impact. With experience in QA, analytics, and stakeholder collaboration, I bring a balance of technical expertise and strategic thinking. My recent projects blend ML models with real-world business needs, delivering value through data storytelling and operational insight.
 
