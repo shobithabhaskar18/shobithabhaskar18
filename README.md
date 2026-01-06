@@ -53,13 +53,13 @@ I'm a data-driven professional passionate about transforming raw data into busin
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.tableau.com" target="_blank" rel="noreferrer">
+  <a href="[https://www.tableau.com](https://public.tableau.com/app/profile/shobitha.bhaskar/vizzes)" target="_blank" rel="noreferrer">
     <img src="https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png" width="40" height="40"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" width="40" height="40"/>
   </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <a href="[https://powerbi.microsoft.com/](https://app.powerbi.com/groups/me/list?experience=power-bi)" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="PowerBI" width="40" height="40"/>
   </a>
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
