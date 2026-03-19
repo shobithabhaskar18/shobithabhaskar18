@@ -2,7 +2,6 @@
 <h3 align="center">Business Analyst | Data Enthusiast | Problem Solver</h3>
 
 - 🎓 Master's in **Business Analytics** from **Arizona State University**
-- 💼 2 years of experience as an **Analyst & QA Tester** at **Capgemini**
 - 🔍 Currently exploring **Business Analyst**, **Data Analyst**, **Data Engineering**, **ML**, and **Analytics Consulting**
 - 💡 Built impactful projects like **Auto Fraud Detection** and **Smart Gym Occupancy Monitoring**
 - 📫 Reach me at: **shobithabhaskar2000@gmail.com**
